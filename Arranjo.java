@@ -34,7 +34,7 @@ public class Arranjo {
     }
 
     public static void main(String[]args){
-        Integer[] a = {940, 880, 830, 790, 750, 660, 650, 590, 510};
+        Integer[] a = {940, 880, 830, 790, 750, 660, 650, 590, 510, 940};
         Arranjo arranjo = new Arranjo();
         arranjo.exibirResultados(a);
     }
