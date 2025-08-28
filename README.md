@@ -62,7 +62,7 @@ O diferencial deste projeto é a implementação inteiramente baseada na **API d
 
 A execução do programa com os dados definidos no método `main` produzirá a seguinte saída no console:
 ```
-Array fornecido:[940, 880, 830, 790, 750, 660, 650, 590, 510]
+Array fornecido:[940, 880, 830, 790, 750, 660, 650, 590, 510, 940]
 Menor número: 510
 Maior número: 940
 Soma dos números: 6500
