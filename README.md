@@ -65,7 +65,7 @@ A execução do programa com os dados definidos no método `main` produzirá a s
 Array fornecido:[940, 880, 830, 790, 750, 660, 650, 590, 510, 940]
 Menor número: 510
 Maior número: 940
-Soma dos números: 6500
+Soma dos números: 7040
 O número 940 repete 1 vezes.
 ```
 
